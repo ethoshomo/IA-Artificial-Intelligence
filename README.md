@@ -1,2 +1,2 @@
 # Inteligencia-Artificial
- Coleção de estudos em Inteligência Artificial de um leigo.
+ Coleção de estudos em Inteligência Artificial.
